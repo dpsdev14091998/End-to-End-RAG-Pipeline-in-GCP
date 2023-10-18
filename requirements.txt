@@ -1,0 +1,5 @@
+google-cloud-aiplatform==1.33.1
+pandas==1.0.5
+numpy==1.19.0
+PyPDF2==1.26.0
+google-cloud-bigquery==1.26.1
