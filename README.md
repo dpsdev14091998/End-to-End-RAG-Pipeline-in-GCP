@@ -26,4 +26,6 @@ Welcome to the End-to-End RAG Pipeline in Google Cloud Platform (GCP) repository
 - Fetching PDFs and index creation can be encompassed within one Cloud Function.
 - Another HTTPs triggered Cloud Function can be used for inference and text generation of the response based on user query.
 - Architecture attached below for reference
+- ![rag_pipeline_v1](https://github.com/dpsdev14091998/End-to-End-RAG-Pipeline-in-GCP/assets/60086099/85ef99f9-b89a-423e-b61c-a2964496993b)
+
 
